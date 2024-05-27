@@ -115,10 +115,11 @@ nav button svg {
     align-items: center;
     justify-content: center;
     position: relative;
+    text-align: center;
 }
 
 #page1 h1 {
-    font-size: 8.5vw;
+    font-size:7.8vw;
     text-transform: uppercase;
     font-weight: 900;
     line-height: 8.5vw;
